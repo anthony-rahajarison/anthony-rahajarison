@@ -1,11 +1,9 @@
 <h1 align="center">Bonnjour, Je suis Anthony RAHAJARISON</h1>
 <h3 align="center">Souhaite devenir développeur logiciel</h3>
 
-- 🔭 Je travaille actuellement sur [un Portfolio](https://github.com/anthony-rahajarison/Portfolio)
+- 🔭 Je travaille actuellement sur [Un logiciel de gestion d'étudiants](https://github.com/anthony-rahajarison/Portfolio)
 
-- J'apprend actuellement les **Frameworks CSS**
-
-- 👨‍💻 Voici tous mes projets ["lien à mettre"]("lien à mettre")
+- J'apprend actuellement les **API**
 
 - 📫 Me contacter **anthony.rahajarison@laplateforme.io**
 
